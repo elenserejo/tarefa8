@@ -1,0 +1,19 @@
+html{
+    background-image: url(https://www.denterlein.com/hubfs/BuzzFeed_News2.png);
+}
+
+div{
+    background-color: aliceblue;
+    height: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 400px;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
